@@ -1,0 +1,16 @@
+{
+    "name": "bobur/newcms1.uz",
+    "authors": [
+        {
+            "name": "Bobur",
+            "email": "darking-uz@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
